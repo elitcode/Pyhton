@@ -1,0 +1,2 @@
+#Pyhton
+**sqlite eklememiz lazım**
